@@ -2,9 +2,9 @@
 WWDC23 Swift Student Challenge
 
 <h1> About </h1>
-<p> Ability AI is an innovative app that showcases the impressive abilities of Artificial Intelligence (AI). With this app, you can experience firsthand the power of AI in a variety of applications. With Natural Language Processing, Ability AI demonstrates the amazing potential of AI to improve our lives in countless ways.
+<p>Ability AI is an innovative app that showcases the impressive abilities of Artificial Intelligence (AI). With this app, you can experience firsthand the power of AI in a variety of applications. With Natural Language Processing, Ability AI demonstrates the amazing potential of AI to improve our lives in countless ways.
 
-With a sleek and intuitive interface, Ability AI is easy-to-use. You'll be amazed by the accuracy and speed of the AI algorithms at work in this app, as they quickly and efficiently process complex data and deliver meaningful insights and results. </p>
+With a sleek and intuitive interface, Ability AI is easy-to-use. You'll be amazed by the accuracy and speed of the AI algorithms at work in this app, as they quickly and efficiently process complex data and deliver meaningful insights and results.</p>
 
 <h1> The App Contains </h1>
 <p>
