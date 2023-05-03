@@ -20,7 +20,7 @@ With a sleek and intuitive interface, Ability AI is easy-to-use. You'll be amaze
 <p>
 <ul>
   <li>Smooth 3D Spring Animations in Tic-Tac-Toe.</li>
-  <li>Auto resizable Text boxes (According to the text content in it).</li>
+  <li>Auto resizable Text boxes (According to the text content in them).</li>
   <li>Smooth enlargement of the Summary box in Text Summarizer View.</li>
   <li>Word Counter in the Text Summarizer View.</li>
   <li>Smooth Colors and Emojis changing based on the sentiment of the text input.</li>
