@@ -9,22 +9,22 @@ With a sleek and intuitive interface, Ability AI is easy-to-use. You'll be amaze
 <h1> The App Contains </h1>
 <p>
 <ul>
-  <li>Tic-Tac-Toe (with AI)</li>
-  <li>NLP Steps</li>
-  <li>Text Summarizer</li>
-  <li>Sentiment Analysis</li>
+  <li>Tic-Tac-Toe (with AI).</li>
+  <li>NLP Steps.</li>
+  <li>Text Summarizer.</li>
+  <li>Sentiment Analysis.</li>
 </ul>
 </p>
 
 <h1> Features </h1>
 <p>
 <ul>
-  <li>Smooth animations in Tic-Tac-Toe</li>
-  <li>Auto resizable Text boxes (According to the text content in it)</li>
-  <li>Smooth enlargement of the Summary box in Text Summarizer view</li>
-  <li>Word Counter in the Text Summarizer View</li>
-  <li>Smooth Colors and Emojis changing based on the sentiment of the text input</li>
-  <li>Smooth Animations Overall</li>
+  <li>Smooth 3D Spring Animations in Tic-Tac-Toe.</li>
+  <li>Auto resizable Text boxes (According to the text content in it).</li>
+  <li>Smooth enlargement of the Summary box in Text Summarizer View.</li>
+  <li>Word Counter in the Text Summarizer View.</li>
+  <li>Smooth Colors and Emojis changing based on the sentiment of the text input.</li>
+  <li>Smooth Animations Overall.</li>
 </ul>
 </p>
 
