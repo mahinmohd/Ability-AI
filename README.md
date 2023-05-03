@@ -25,6 +25,7 @@ With a sleek and intuitive interface, Ability AI is easy-to-use. You'll be amaze
   <li>Word Counter in the Text Summarizer View.</li>
   <li>Smooth Colors and Emojis changing based on the sentiment of the text input.</li>
   <li>Smooth Animations Overall.</li>
+  <li>Dark Elegant Colors.</li>
 </ul>
 </p>
 
