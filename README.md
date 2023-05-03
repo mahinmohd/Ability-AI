@@ -6,9 +6,6 @@ WWDC23 Swift Student Challenge
 
 With a sleek and intuitive interface, Ability AI is easy-to-use. You'll be amazed by the accuracy and speed of the AI algorithms at work in this app, as they quickly and efficiently process complex data and deliver meaningful insights and results.</p>
 
-<h1> Ability AI Preview </h1>
-[![Preview](https://img.youtube.com/vi/[https://www.youtube.com/watch?v=Qo1Ut5vU2v0](https://www.youtube.com/watch?v=Qo1Ut5vU2v0)/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=Qo1Ut5vU2v0)
-
 <h1> The App Contains </h1>
 <p>
 <ul>
