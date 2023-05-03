@@ -1,20 +1,13 @@
 # Ability AI
 WWDC23 Swift Student Challenge
 
-<!DOCTYPE html>
-<html>
-<body>
-
 <h1> About </h1>
 <p>Ability AI is an innovative app that showcases the impressive abilities of Artificial Intelligence (AI). With this app, you can experience firsthand the power of AI in a variety of applications. With Natural Language Processing, Ability AI demonstrates the amazing potential of AI to improve our lives in countless ways.
 
 With a sleek and intuitive interface, Ability AI is easy-to-use. You'll be amazed by the accuracy and speed of the AI algorithms at work in this app, as they quickly and efficiently process complex data and deliver meaningful insights and results.</p>
 
 <h1> Ability AI Preview </h1>
-<p>
-  <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=Qo1Ut5vU2v0">
-</iframe>
-</p>
+[![Preview](https://img.youtube.com/vi/[https://www.youtube.com/watch?v=Qo1Ut5vU2v0](https://www.youtube.com/watch?v=Qo1Ut5vU2v0)/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=Qo1Ut5vU2v0)
 
 <h1> The App Contains </h1>
 <p>
@@ -47,6 +40,3 @@ With a sleek and intuitive interface, Ability AI is easy-to-use. You'll be amaze
   <li>SwiftUI</li>
   <li>Natural Language.</li>
 </ol>
-
-</body>
-</html>
