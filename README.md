@@ -30,3 +30,9 @@ With a sleek and intuitive interface, Ability AI is easy-to-use. You'll be amaze
 
 <h1>Status</h1>
 <p>Pending</p>
+
+<h1> Frameworks Used </h1>
+<ol>
+  <li>SwiftUI</li>
+  <li>Natural Language.</li>
+</ol>
