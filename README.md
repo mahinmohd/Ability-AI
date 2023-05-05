@@ -22,7 +22,7 @@ With a sleek and intuitive interface, Ability AI is easy-to-use. You'll be amaze
   <li>Smooth 3D Spring Animations in Tic-Tac-Toe.</li>
   <li>All views with Textual input include a sample Text to test out the app.</li>
   <li>Sentiment Analysis also shows the score of the sentiment (Max 100).</li>
-  <li>All Views include Clear button to clear of the input Text easily.</li>
+  <li>All Views include Clear button to clear off the input Text easily.</li>
   <li>Summarizer View shows the Number of words Before and After Summarization</li>
   <li>Auto resizable Text boxes (According to the text content in them).</li>
   <li>Smooth enlargement of the Summary box in Text Summarizer View.</li>
